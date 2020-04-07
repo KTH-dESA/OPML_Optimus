@@ -1,5 +1,5 @@
 # OPML_Optimus_Project: National energy planning and policy support for the achievement of sustainable development goals.
-This is a repository to host the osemosys and onsset country models for Afghanistan, Ethiopia, Sierra Leone and Uganda.
+This is a repository to host the osemosys country models for Afghanistan, Ethiopia, Sierra Leone and Uganda.
 
 The OSeMOSYS model published as a Frictionless Data [Tabular Data Package](https://frictionlessdata.io/specs/tabular-data-package/).
 
