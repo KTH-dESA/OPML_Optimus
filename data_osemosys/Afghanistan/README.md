@@ -8,4 +8,6 @@
 
 5. National Policies Scenario - The national plans have been used to see how the scenario would look like with the commission of power plants in specific years. (i.e. they want to build an hydro power plant of almost 800MW in 2024 and I force the model to invest that year and install the capacity in that specific year)
 
+#In order to solve the model you need to use the following command, where Osemosys is the model file:
+glpsol -m osemosys_code.txt -d <scenarioname>.txt
 
