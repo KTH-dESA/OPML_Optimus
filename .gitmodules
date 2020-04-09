@@ -1,3 +1,9 @@
 [submodule "OnSSET-Afghanistan"]
 	path = OnSSET-Afghanistan
 	url = https://github.com/KTH-dESA/OnSSET-Afghanistan.git
+[submodule "OnSSET_Uganda"]
+	path = OPML-OpTIMUS-OnSSET-Uganda
+	url = https://github.com/KTH-dESA/OPML-OpTIMUS-OnSSET-Uganda.git
+[submodule "OnSSET_Sierra_Leone"]
+	path = OPML-OpTIMUS-OnSSET-Sierra-Leone
+	url = https://github.com/KTH-dESA/OPML-OpTIMUS-OnSSET-Sierra-Leone.git
