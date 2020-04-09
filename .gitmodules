@@ -7,3 +7,6 @@
 [submodule "OnSSET_Sierra_Leone"]
 	path = OPML-OpTIMUS-OnSSET-Sierra-Leone
 	url = https://github.com/KTH-dESA/OPML-OpTIMUS-OnSSET-Sierra-Leone.git
+[submodule "OnSSET_Ethiopia"]
+	path = OPML-OpTIMUS-OnSSET-Ethiopia
+	url = https://github.com/KTH-dESA/OPML-OpTIMUS-OnSSET-Ethiopia.git
